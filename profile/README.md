@@ -5,7 +5,7 @@
   
   ### Try Before npm install 🚀
   
-  **인기 오픈소스 라이브러리를 30초 만에 체험하세요**
+  **Experience trending open-source libraries in 30 seconds**
   
   [![Website](https://img.shields.io/badge/🌐_Website-trey--opensource.netlify.app-4A90D9?style=for-the-badge)](https://trey-opensource.netlify.app)
   [![Made with TanStack](https://img.shields.io/badge/Made_with-TanStack-FF4154?style=for-the-badge)](https://tanstack.com)
@@ -17,10 +17,10 @@
 
 | Feature | Description |
 |---------|-------------|
-| 🎮 **Live Playground** | 설치 없이 브라우저에서 라이브러리 체험 |
-| 📊 **Trust Metrics** | GitHub 스타, npm 다운로드, 마지막 커밋 등 신뢰도 지표 |
-| 🔍 **Smart Compare** | 유사 라이브러리 나란히 비교 |
-| 🌍 **다국어 지원** | 한국어 / English |
+| 🎮 **Live Playground** | Try libraries directly in your browser without installation |
+| 📊 **Trust Metrics** | GitHub stars, npm downloads, last commit, and more |
+| 🔍 **Smart Compare** | Side-by-side comparison of similar libraries |
+| 🌍 **Internationalization** | English / 한국어 |
 
 ---
 
