@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://trey.claychanwoo.com/images/brand/logo.png" alt="Trey Logo" width="120" />
+  <img src="https://trey-opensource.netlify.app/images/brand/logo.png" alt="Trey Logo" width="120" />
   
   # Trey
   
@@ -7,7 +7,7 @@
   
   **인기 오픈소스 라이브러리를 30초 만에 체험하세요**
   
-  [![Website](https://img.shields.io/badge/🌐_Website-trey.claychanwoo.com-4A90D9?style=for-the-badge)](https://trey.claychanwoo.com)
+  [![Website](https://img.shields.io/badge/🌐_Website-trey--opensource.netlify.app-4A90D9?style=for-the-badge)](https://trey-opensource.netlify.app)
   [![Made with TanStack](https://img.shields.io/badge/Made_with-TanStack-FF4154?style=for-the-badge)](https://tanstack.com)
 </div>
 
@@ -41,7 +41,7 @@
 
 ## 🔗 Links
 
-- 🌐 **Website**: [trey.claychanwoo.com](https://trey.claychanwoo.com)
+- 🌐 **Website**: [trey-opensource.netlify.app](https://trey-opensource.netlify.app)
 - 📧 **Contact**: claychanwoo@naver.com
 
 ---
@@ -49,4 +49,3 @@
 <div align="center">
   <sub>Made with ❤️ in Seoul, Korea</sub>
 </div>
-
