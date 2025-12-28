@@ -3,9 +3,9 @@
   
   # Trey
   
-  ### **T**ry Playg**rey**ound 🚀
+  ### **Tre**nd + Pla**y** 🚀
   
-  > *Trey* = **Try** + Playg**rey**ound — Experience libraries before you install
+  > *Trey* = **Trend** + **Play** — Trending libraries, served fresh like a tray 🍽️
   
   <br />
   
