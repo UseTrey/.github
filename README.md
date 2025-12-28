@@ -3,6 +3,8 @@
   
   # Trey - Organization Profile
   
+  > *Trey* = **Try** + Playg**rey**ound
+  
   **This repository powers the [UseTrey](https://github.com/UseTrey) organization profile.**
 </div>
 
@@ -22,6 +24,8 @@
 ## 🚀 About Trey
 
 **Trey** is an open-source library playground that lets developers try trending npm packages directly in the browser before installing them.
+
+The name comes from combining "**Try**" and "Playg**rey**ound" — emphasizing the core experience of trying libraries before committing to them.
 
 ### Key Features
 

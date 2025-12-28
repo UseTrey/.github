@@ -3,9 +3,9 @@
   
   # Trey
   
-  ### 🚀 Try Before npm install
+  ### **T**ry Playg**rey**ound 🚀
   
-  **The playground for discovering and testing open-source libraries**
+  > *Trey* = **Try** + Playg**rey**ound — Experience libraries before you install
   
   <br />
   
