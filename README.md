@@ -1,48 +1,23 @@
 <div align="center">
   <img src="https://trey-opensource.netlify.app/images/brand/logo.png" alt="Trey Logo" width="80" />
   
-  # Trey - Organization Profile
+  # Trey
   
-  > *Trey* = **Tre**nd + Pla**y** 🍽️
+  ### **Tre**nd + Pla**y** 🍽️
   
-  **This repository powers the [UseTrey](https://github.com/UseTrey) organization profile.**
+  **Trending libraries, served fresh like a tray**
+  
+  [![Website](https://img.shields.io/badge/🌐_Website-trey--opensource.netlify.app-4A90D9?style=for-the-badge)](https://trey-opensource.netlify.app)
 </div>
 
 ---
 
-## 📁 Repository Structure
+## ✨ Features
 
-```
-.github/
-├── README.md           # This file (repository documentation)
-└── profile/
-    └── README.md       # Organization profile (displayed on github.com/UseTrey)
-```
-
----
-
-## 🚀 About Trey
-
-**Trey** is an open-source library playground that lets developers try trending npm packages directly in the browser before installing them.
-
-The name combines "**Trend**" and "**Play**" — like a tray serving up curated, trending libraries ready to experience.
-
-### Key Features
-
-- 🎮 **Live Playground** - No installation required
+- 🎮 **Live Playground** - Try libraries directly in your browser
 - 📊 **Trust Metrics** - GitHub stars, npm downloads, last commit
 - 🔍 **Smart Compare** - Side-by-side library comparison
 - 🌍 **i18n Support** - English & Korean
-
----
-
-## 🔗 Quick Links
-
-| Resource | Link |
-|----------|------|
-| 🌐 **Website** | [trey-opensource.netlify.app](https://trey-opensource.netlify.app) |
-| 🏢 **Organization** | [github.com/UseTrey](https://github.com/UseTrey) |
-| 📧 **Contact** | claychanwoo@naver.com |
 
 ---
 
@@ -60,12 +35,10 @@ The name combines "**Trend**" and "**Play**" — like a tray serving up curated,
 
 ---
 
-## 📜 License
-
-This organization profile is maintained by the Trey team.
-
----
-
 <div align="center">
+  
+  📧 claychanwoo@naver.com
+  
   <sub>Made with ❤️ in Seoul, Korea</sub>
+  
 </div>
