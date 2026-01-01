@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://trey-opensource.netlify.app/images/brand/logo.png" alt="Trey Logo" width="140" />
+  <img src="https://trey.claychanwoo.com/images/brand/logo.png" alt="Trey Logo" width="140" />
   
   # Trey
   
@@ -9,7 +9,7 @@
   
   <br />
   
-  [![Website](https://img.shields.io/badge/🌐_Live_Demo-trey--opensource.netlify.app-4A90D9?style=for-the-badge)](https://trey-opensource.netlify.app)
+  [![Website](https://img.shields.io/badge/🌐_Live_Demo-trey--opensource.netlify.app-4A90D9?style=for-the-badge)](https://trey.claychanwoo.com)
   
   <br />
   
@@ -80,7 +80,7 @@ Explore popular libraries across different categories:
 
 | 🌐 Website | 📧 Contact |
 |:----------:|:----------:|
-| [trey-opensource.netlify.app](https://trey-opensource.netlify.app) | claychanwoo@naver.com |
+| [trey.claychanwoo.com](https://trey.claychanwoo.com) | claychanwoo@naver.com |
 
 </div>
 

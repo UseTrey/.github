@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://trey-opensource.netlify.app/images/brand/logo.png" alt="Trey Logo" width="80" />
+  <img src="https://trey.claychanwoo.com/images/brand/logo.png" alt="Trey Logo" width="80" />
   
   # Trey
   
@@ -7,7 +7,7 @@
   
   **Trending libraries, served fresh like a tray**
   
-  [![Website](https://img.shields.io/badge/🌐_Website-trey--opensource.netlify.app-4A90D9?style=for-the-badge)](https://trey-opensource.netlify.app)
+  [![Website](https://img.shields.io/badge/🌐_Website-trey--opensource.netlify.app-4A90D9?style=for-the-badge)](https://trey.claychanwoo.com)
 </div>
 
 ---
