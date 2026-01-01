@@ -7,7 +7,7 @@
   
   **Trending libraries, served fresh like a tray**
   
-  [![Website](https://img.shields.io/badge/🌐_Website-trey--opensource.netlify.app-4A90D9?style=for-the-badge)](https://trey.claychanwoo.com)
+  [![Website](https://img.shields.io/badge/🌐_Website-trey.claychanwoo.com-4A90D9?style=for-the-badge)](https://trey.claychanwoo.com)
 </div>
 
 ---
