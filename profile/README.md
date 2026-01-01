@@ -9,7 +9,7 @@
   
   <br />
   
-  [![Website](https://img.shields.io/badge/🌐_Live_Demo-trey--opensource.netlify.app-4A90D9?style=for-the-badge)](https://trey.claychanwoo.com)
+  [![Website](https://img.shields.io/badge/🌐_Live_Demo-trey--trey.claychanwoo.com-4A90D9?style=for-the-badge)](https://trey.claychanwoo.com)
   
   <br />
   
